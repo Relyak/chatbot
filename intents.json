@@ -1,0 +1,104 @@
+{
+    "intents": [
+        {
+            "tag": "saludo",
+            "patterns": ["Hola", "¡Buenos días!", "¿Qué tal?"],
+            "responses": ["¡Hola!", "¡Buenos días!", "¡Hola! ¿En qué puedo ayudarte?"]
+        },
+        {
+            "tag": "despedida",
+            "patterns": ["Adiós", "Hasta luego", "Nos vemos"],
+            "responses": ["¡Adiós!", "¡Hasta luego!", "¡Nos vemos pronto!"]
+        },
+        {
+            "tag": "agradecimiento",
+            "patterns": ["Gracias", "¡Muchas gracias!", "Te agradezco"],
+            "responses": ["De nada", "¡No hay de qué!", "Estoy aquí para ayudar"]
+        },
+        {
+            "tag": "informacion_general",
+            "patterns": ["¿Qué es eso?", "Explícame eso", "Quiero saber más"],
+            "responses": ["Claro, te puedo ayudar. ¿Sobre qué tema específico quieres información?"]
+        },
+        {
+            "tag": "ayuda",
+            "patterns": ["¿Puedes ayudarme?", "Necesito ayuda", "No entiendo"],
+            "responses": ["Por supuesto, estoy aquí para ayudarte. ¿Cuál es tu pregunta?"]
+        },
+        {
+            "tag": "pregunta",
+            "patterns": ["¿Cómo estás?", "¿Qué haces?", "¿Cómo te llamas?"],
+            "responses": ["Estoy aquí para ayudarte", "Estoy asistiendo a los usuarios", "Me llamo Margo"]
+        },
+        {
+            "tag": "afirmacion",
+            "patterns": ["Sí", "Por supuesto", "Claro"],
+            "responses": ["Genial", "Perfecto", "Estupendo"]
+        },
+        {
+            "tag": "negacion",
+            "patterns": ["No", "No gracias", "Quizás más tarde"],
+            "responses": ["Está bien", "No hay problema", "Cuando quieras"]
+        },
+        {
+            "tag": "consulta_horario",
+            "patterns": ["¿Qué hora es?", "¿Qué día es hoy?", "¿Cuál es la fecha?"],
+            "responses": ["Déjame comprobarlo", "Un momento por favor", "Permíteme verificarlo"]
+        },
+        {
+            "tag": "consulta_clima",
+            "patterns": ["¿Cómo está el clima?", "¿Necesitaré un paraguas hoy?", "¿Hace frío afuera?"],
+            "responses": ["Déjame comprobar el pronóstico del tiempo", "Permíteme verificarlo", "Un momento, por favor"]
+        },
+        {
+            "tag": "consulta_localizacion",
+            "patterns": ["¿Dónde estamos?", "¿Cuál es mi ubicación?", "¿Dónde estoy?"],
+            "responses": ["Estamos en el ciberespacio", "Estás donde necesitas estar", "Estás en la red"]
+        },
+        {
+            "tag": "consulta_tiempo",
+            "patterns": ["¿Cuánto tiempo ha pasado?", "¿Cuánto falta para...", "¿Cuándo es...?"],
+            "responses": ["El tiempo es relativo", "Todo a su debido tiempo", "El tiempo vuela"]
+        },
+        {
+            "tag": "consulta_calendario",
+            "patterns": ["¿Qué día es mañana?", "¿Cuándo es el próximo...", "¿Qué día fue...?"],
+            "responses": ["Mañana es otro día", "El futuro es incierto", "El pasado es historia"]
+        },
+        {
+            "tag": "consulta_noticias",
+            "patterns": ["¿Qué está pasando en el mundo?", "¿Cuáles son las últimas noticias?", "¿Qué está pasando en...?"],
+            "responses": ["El mundo está en constante cambio", "Las noticias vuelan", "Cada día trae algo nuevo"]
+        },
+        {
+            "tag": "consulta_deportes",
+            "patterns": ["¿Quién ganó el partido?", "¿Cuál es el marcador?", "¿Cuándo es el próximo juego de...?"],
+            "responses": ["El deporte es impredecible", "Cada juego es una nueva oportunidad", "La próxima vez será mejor"]
+        },
+        {
+            "tag": "consulta_musica",
+            "patterns": ["¿Qué música me recomiendas?", "¿Cuál es tu canción favorita?", "¿Qué estás escuchando?"],
+            "responses": ["La música es un mundo en sí mismo", "Cada canción tiene su encanto", "Estoy siempre listo para una buena melodía"]
+        },
+        {
+            "tag": "consulta_libros",
+            "patterns": ["¿Qué libro me recomiendas?", "¿Cuál es tu libro favorito?", "¿Qué estás leyendo?"],
+            "responses": ["Cada libro es un viaje", "Hay un libro para cada momento", "Siempre hay un buen libro esperando"]
+        },
+        {
+            "tag": "consulta_peliculas",
+            "patterns": ["¿Qué película me recomiendas?", "¿Cuál es tu película favorita?", "¿Qué estás viendo?"],
+            "responses": ["El cine es magia", "Cada película es una historia", "Siempre hay una buena película para ver"]
+        },
+        {
+            "tag": "consulta_comida",
+            "patterns": ["¿Qué comida me recomiendas?", "¿Cuál es tu comida favorita?", "¿Qué estás comiendo?"],
+            "responses": ["La comida es un placer", "Cada plato tiene su sabor", "Siempre hay algo delicioso para probar"]
+        },
+        {
+            "tag": "consulta_viajes",
+            "patterns": ["¿Qué lugar me recomiendas para visitar?", "¿Cuál es tu lugar favorito?", "¿Dónde te gustaría ir?"],
+            "responses": ["Cada viaje es una aventura", "El mundo está lleno de lugares maravillosos", "Siempre hay un nuevo lugar para descubrir"]
+        }
+    ]
+}
