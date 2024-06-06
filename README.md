@@ -6,6 +6,10 @@
 <H2>Funcionamiento</H2>
 <div>Al preguntar algo a Margo hará una predicción en base a unas respuestas predefinidas, de todas las respuestas hace un análisis y predice cúal tiene más probabilidad de ser la respuesta adecuada a la pregunta. Además mientras no se refresque la página se mostrará el historial de preguntas y respuestas</div>
 <H2>Ejemplos</H2>
-![imagen](https://github.com/Relyak/chatbot/assets/98175687/ab05c958-a315-44b1-9795-2d2b660860f8)
+<div align="center" >
+    <img src="https://github.com/Relyak/chatbot/assets/98175687/ab05c958-a315-44b1-9795-2d2b660860f8">
+</div>
 <br>
-![imagen](https://github.com/Relyak/chatbot/assets/98175687/ce8b6ac1-f6cc-46ae-b9fc-051dc5e96ec7)
+<div align="center" >
+    <img src="https://github.com/Relyak/chatbot/assets/98175687/ce8b6ac1-f6cc-46ae-b9fc-051dc5e96ec7">
+</div>
